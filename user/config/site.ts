@@ -13,15 +13,15 @@ import SiteCover from '$assets/qwer.webp';
 
 export const siteConfig: Site.Config = {
   url: 'https://svelte-qwer.vercel.app',
-  title: 'QWER',
+  title: 'Taylorzhang',
   subtitle: '🚀 QWER - Built using Svelte with ❤',
   description: '🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤',
-  lang: 'en',
-  timeZone: 'Asia/Taipei',
+  lang: 'zh',
+  timeZone: 'Asia/Shanghai',
   since: 2022,
   cover: SiteCover,
   author: {
-    name: 'John Doe',
+    name: 'Taylor Zhang',
     status: '🚀',
     statusTip:
       '<a href="https://github.com/kwchang0831/svelte-QWER" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >QWER</a> is Awesome !',
@@ -32,7 +32,7 @@ export const siteConfig: Site.Config = {
     avatar_192_png: Avatar_192_PNG,
     avatar_512_png: Avatar_512_PNG,
     website: 'https://github.com/kwchang0831/svelte-QWER',
-    github: 'https://github.com/kwchang0831',
+    github: 'https://github.com/taylorzhangyx',
     email: 'contact@kwchang0831.dev',
     bio: `Peace begins <br/> With a smile`,
   },
@@ -40,7 +40,7 @@ export const siteConfig: Site.Config = {
 
 export const headConfig: Site.Head = {
   // Used for IndieWeb
-  me: ['https://github.com/kwchang0831'],
+  me: ['https://github.com/taylorzhangyx'],
   custom: ({ dev }) =>
     dev
       ? [

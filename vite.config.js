@@ -85,6 +85,8 @@ const config = {
     },
   },
   server: {
+    port: 8080,
+    strictPort: true,
     fs: {
       allow: ['..'],
     },
