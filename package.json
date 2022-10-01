@@ -26,6 +26,7 @@
     "dev:QWER": "node --no-warnings QWER watch",
     "dev:watch": "npm-run-all -p -r dev:QWER dev:i18n dev:sveltekit ",
     "dev": "npm-run-all -s build:QWER dev:watch",
+    "dev:jekyll": "bundle exec jekyll serve",
     "build:i18n": "npx typesafe-i18n --no-watch",
     "build:sveltekit": "vite build",
     "build:QWER_Without_Meta": "node --no-warnings QWER buildWithoutMeta",
