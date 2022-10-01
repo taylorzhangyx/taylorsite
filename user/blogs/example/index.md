@@ -154,15 +154,15 @@ class Greeter {
 
 ## Image
 
-![Example1](/_posts/example/example1.jpg)
+![Example1](/example/example1.jpg)
 
-<ImgZoom src="/_posts/example/example1.jpg" alt="Example1" class="h-full object-cover">
+<ImgZoom src="/example/example1.jpg" alt="Example1" class="h-full object-cover">
 Photo by <a href="https://unsplash.com/@willy24?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ioana Tabarcea</a> on <a href="https://unsplash.com/s/photos/morning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </ImgZoom>
 
 ## Videos / GIF
 
-![MP4 Example](/_posts/example/example2.mp4)
+![MP4 Example](/example/example2.mp4)
 
 ## Youtube
 

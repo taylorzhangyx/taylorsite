@@ -49,7 +49,7 @@ export const CoreConfig = {
   StaticFolder: 'static',
   BuildFolder: 'build',
   UserPublicFolder: 'user/public',
-  UserBlogsFolder: 'docs',
+  UserBlogsFolder: 'user/blogs',
   UserAssetsFolder: 'user/assets',
   RouteFolder: 'src/routes',
   TemplateFolder: 'src/lib/template',

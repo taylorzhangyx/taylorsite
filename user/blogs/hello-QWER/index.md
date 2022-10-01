@@ -90,7 +90,7 @@ tags:
 <span>Sawubona Mhlaba!</span>
 </div>
 
-<ImgZoom src="/_posts/hello-QWER/reach.jpg" alt="/_posts/hello-QWER/reach.jpg" class="h-full object-cover">
+<ImgZoom src="/hello-QWER/reach.jpg" alt="/hello-QWER/reach.jpg" class="h-full object-cover">
 Photo by <a href="https://unsplash.com/@marcojodoin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marc-Olivier Jodoin</a> on <a href="https://unsplash.com/s/photos/reach?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </ImgZoom>
 
@@ -121,6 +121,6 @@ for i in range(10):
 
 We look forward to see your creation.
 
-<ImgZoom src="/_posts/hello-QWER/wait.jpg" alt="/_posts/hello-QWER/wait.jpg" class="h-full object-cover">
+<ImgZoom src="/hello-QWER/wait.jpg" alt="/hello-QWER/wait.jpg" class="h-full object-cover">
 Photo by <a href="https://unsplash.com/@armgd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicolas Gras</a> on <a href="https://unsplash.com/s/photos/bokeh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </ImgZoom>

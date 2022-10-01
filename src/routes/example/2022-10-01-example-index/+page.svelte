@@ -367,8 +367,8 @@ m0 0v40h399900v-40z m100 194v40h399900v-40zm0 0v40h399900v-40z'/></svg></span></
       </CodeCopy>
     </div>
     <h2 id="image"><a href="#image">Image</a></h2>
-    <p><ImgZoom src="/example/example1.jpg" alt="Example1" width="640" height="480" /></p>
-    <ImgZoom src="/example/example1.jpg" alt="Example1" class="h-full object-cover">
+    <p><ImgZoom src="/_posts/example/example1.jpg" alt="Example1" /></p>
+    <ImgZoom src="/_posts/example/example1.jpg" alt="Example1" class="h-full object-cover">
       Photo by <a
         href="https://unsplash.com/@willy24?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
         Ioana Tabarcea
@@ -381,7 +381,7 @@ m0 0v40h399900v-40z m100 194v40h399900v-40zm0 0v40h399900v-40z'/></svg></span></
     </ImgZoom>
 
     <h2 id="videos-gif"><a href="#videos-gif">Videos / GIF</a></h2>
-    <p><Video mp4="/example/example2.mp4" id="MP4 Example" /></p>
+    <p><Video mp4="/_posts/example/example2.mp4" id="MP4 Example" /></p>
     <h2 id="youtube"><a href="#youtube">Youtube</a></h2>
     <Youtube id="ZXsQAXx_ao0" />
 
