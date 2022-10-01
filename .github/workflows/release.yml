@@ -9,7 +9,7 @@ concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
   release:
-    if: github.repository == 'taylorzhangyx/taylorzhangyx.github.io'
+    if: github.repository == 'kwchang0831/svelte-QWER'
     name: Release
     runs-on: ubuntu-latest
     steps:
