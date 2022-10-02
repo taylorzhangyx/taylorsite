@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Taylorzyx Isotope Zone
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+An explorer, developer.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This website is a place to share thoughts and 'know-how' during my studies and work.
 
+[Isotope](https://en.wikipedia.org/wiki/Isotope) basically is a group of atoms that shares the same values but differs
+in outer shapes.
 
-[jekyll-organization]: https://github.com/jekyll
+If you are interested you can find me [on linkedin](https://www.linkedin.com/in/yxzh/) and [github](https://github.com/taylorzhangyx)
