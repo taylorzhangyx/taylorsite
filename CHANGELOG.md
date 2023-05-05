@@ -1,5 +1,20 @@
 # @kwchang0831/svelte-qwer
 
+## 0.4.1
+
+### Patch Changes
+
+- 29f1d29: fix: touch scrolling and go to the heading should be exclusive
+- 29f1d29: deps: upgrade (@sveltejs/kit 1.0.0-next.502 -> 1.0.0-next.503)
+- 29f1d29: dpes: upgrade (@sveltejs/kit 1.0.0-next.503 -> 1.0.0-next.504)
+- 29f1d29: fix: vercel partytown dest
+- 29f1d29: fix: toc on mobile react to touch
+- 29f1d29: added: ga4
+- 29f1d29: fix: add scrolling to tags filter
+- 29f1d29: revert: remove preload in img components since it doesn't make much differences
+- 29f1d29: fix: partytown dist based on host platform
+- 29f1d29: fix: valid html attribute (toc-link -> data-toc-link)
+
 ## 0.4.0
 
 ### Minor Changes
